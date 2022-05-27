@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Employee-Registration-Form/static/css/main.c4a3ffa3.css",
+    "main.js": "/Employee-Registration-Form/static/js/main.bea69223.js",
+    "static/js/787.aa9282d8.chunk.js": "/Employee-Registration-Form/static/js/787.aa9282d8.chunk.js",
+    "index.html": "/Employee-Registration-Form/index.html",
+    "main.c4a3ffa3.css.map": "/Employee-Registration-Form/static/css/main.c4a3ffa3.css.map",
+    "main.bea69223.js.map": "/Employee-Registration-Form/static/js/main.bea69223.js.map",
+    "787.aa9282d8.chunk.js.map": "/Employee-Registration-Form/static/js/787.aa9282d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4a3ffa3.css",
+    "static/js/main.bea69223.js"
+  ]
+}
